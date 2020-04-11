@@ -1,0 +1,1 @@
+web: gunicorn aws_Bulgaria_final:server
